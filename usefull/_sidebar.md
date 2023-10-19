@@ -1,4 +1,3 @@
-- [README](docs/政治/README.md)
-- 23政治
-  - [腿姐技巧班](docs/政治/23政治/腿姐技巧班.md)
-  - [模拟卷总结](docs/政治/23政治/23政治模拟卷总结.md)
+1. [README](docs/政治/README.md)
+2. [腿姐技巧班](usefull/多个github_pages配置流程.md)
+
