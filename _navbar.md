@@ -1,4 +1,4 @@
 -   [首页]()
 -   [项目介绍](README.md)
--   [如何贡献](How-to-Contribute.md)
--   [课程列表](docs/课内笔记/README.md)
+-   [政治](docs/政治/README.md)
+-   [模拟卷](docs/模拟卷/README.md)

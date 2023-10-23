@@ -74,6 +74,7 @@
                     ["$$", "$$"]
                 ], // default
             },
+
             // 评论
             Valine: {
                 appId: "",
@@ -96,6 +97,20 @@
             // plugins: [EditOnGithubPlugin.create('https://github.com/Snailclimb/JavaGuide-Interview/blob/master/')],
         };
     </script>
+    <!-- 支持latex -->
+    <script src="//cdn.jsdelivr.net/npm/katex@latest/dist/katex.min.js"></script>
+    <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/katex@latest/dist/katex.min.css" />
+    <!-- <script src="//cdn.jsdelivr.net/npm/docsify-latex@0"></script> -->
+
+    <!-- <script src="//cdn.jsdelivr.net/npm/katex@latest/dist/katex.min.js"></script> -->
+    <!-- <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/katex@latest/dist/katex.min.css" /> -->
+    <script src="//cdn.jsdelivr.net/npm/marked@4"></script>
+
+    <!-- CDN files for docsify-katex -->
+    <script src="//cdn.jsdelivr.net/npm/docsify-katex@latest/dist/docsify-katex.js"></script>
+    <!-- or <script src="//cdn.jsdelivr.net/gh/upupming/docsify-katex@latest/dist/docsify-katex.js"></script> -->
+
+
     <!-- docsify的js依赖 -->
     <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
     <!-- emoji表情支持 -->
@@ -112,10 +127,8 @@
     <script src="//unpkg.com/prismjs/components/prism-java.js"></script>
     <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-bash.min.js"></script>
 
-    <!-- 支持latex -->
-    <script src="https://cdn.jsdelivr.net/npm/katex@latest/dist/katex.min.js"></script>
-    <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/katex@latest/dist/katex.min.css" />
-    <script src="//cdn.jsdelivr.net/npm/docsify-latex@0"></script>
+
+
 
     <!-- 评论 -->
     <script src="//unpkg.com/valine/dist/Valine.min.js"></script>
