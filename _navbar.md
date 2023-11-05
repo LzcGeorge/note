@@ -1,4 +1,3 @@
 -   [首页]()
 -   [项目介绍](README.md)
--   [政治](docs/政治/README.md)
--   [模拟卷](docs/模拟卷/README.md)
+-   [wordlist](/docs/English/wordlist.md)
