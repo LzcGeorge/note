@@ -170,7 +170,7 @@ underestimate 低估，轻视
 
 ## Sentence 2
 
-**Devoted concertgoers who reply that recording are no substitute for live performance are missing the poing.**
+**Devoted concertgoers who reply that recording are no substitute for live performance are missing the point.**
 
 devoted 忠诚的，挚爱的
 
@@ -314,4 +314,156 @@ unpretentious 不张扬的，不炫耀的
 
 vibrant 充满生机的，鲜艳的
 
+## Sentence 3
+
+**Ant keep predatory insect away from where their aphid feed; Gmail keeps the spammers out of our inboxed.**
+
+ant 蚂蚁
+
+predatory 捕食性的，弱肉强食的
+
+insect 昆虫
+
+abuse 滥用，虐待
+
+- drug abuse 滥用药物
+- child abuse 虐待儿童
+
+acquire 取得，获得
+
+- acquire a habit 养成一种习惯
+
+appear 出现，显得
+
+astonish 使吃惊，使惊讶
+
+- astonishing 吃惊的，惊人的
+
+clumsy 笨拙的
+
+commission 委员会，委托
+
+- in commission 可以使用的
+- out of commission 不能工作的，失灵的
+- mission 任务，使命
+
+compare 比较
+
+- compare A with B 比较 A 和 B
+- compare with/to ... 与 ... 类比
+- comparison 比较，对比
+
+compete 竞争，比赛
+
+- compete with/against sb for sth 为得到 sth 与某人竞争
+- competition 比赛
+
+consume 消费，消耗
+
+- consumption 消费 `-tion`
+- consumer 消费者 `-er`
+- consumer ism 消费主义 `-ism`
+
+convert 变换，转化
+
+current 流行的，当前的，潮流
+
+- current affair 时事
+- currently 目前，普遍地
+
+dominate 控制，统治
+
+- man-dominated 男性主导的
+
+enemy 敌人
+
+giant 巨人，巨头
+
+- an industrial giant 工业巨头
+
+guarantee 保证，担保
+
+identity 身份，特性，相同，一致
+
+imbalance 不平衡
+
+incidentally 附带的，顺便提及
+
+incorporate 合并，包含
+
+- comprise 包括，由 ... 组成
+- embody 包含，含有
+
+input 输入
+
+intricate 复杂的
+
+- extricate 使解脱
+
+liable 有责任的，易于 ... 的
+
+- be liable for 对 ... 应付责任的
+- be liable to 易于 ... 的
+- reliable 可靠的，可信赖的
+
+notwithstanding 尽管
+
+pace 步伐，速度
+
+- keep/hold pace with 跟上，与 ... 同步
+
+prosperous 繁荣的，兴旺的
+
+- a prosperous city 兴旺发达的城市
+
+purchase 购买
+
+reciprocal 相互的
+
+- unilateral 单边的
+
+record 记录
+
+- recoder 记录员
+
+repay 偿还，报答
+
+replace 替换，取代
+
+resort 求助，凭借
+
+- resort to force/war 诉诸武力/战争
+
+reveal 展现，显示，揭露
+- reveal a secret 泄露秘密
+
+scheme 计划
+
+undertake 承担，保证，着手
+
+- undertake responsibility 承担责任
+- undertaking 企业，任务
+
+update 更新
+
+utilize 利用
+
+- utility 有用，效用
+- utilization 利用，使用
+
+venture 冒险，企业
+
+- joint venture 合资企业
+- venture investment 风险投资
+- venture capital 风险资金
+
+via 通过，经过
+
+virtual 实际上的，虚拟的
+
+- virtually 实际上，事实上
+
+whatsoever 任何
+
+whip 鞭子，抽打
 
